@@ -19,7 +19,7 @@ const  clients = [
   bg-gradient-to-r from-blue-500 to-purple-500 text-white`}>
 
     <Layount title="Cadastro Simples">
-
+<div className="flex"></div>
 
    <Tabela clients={clients}></Tabela>
     </Layount>
